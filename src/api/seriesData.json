@@ -1,0 +1,23 @@
+[
+    {
+        "id" : "0",
+        "img": "moon-night.webp",
+        "name": "Moon Knight!",
+        "genre": "Horror, Adventure, Thriller, Action, Science FIction, Darama.",
+        "desc": "Steven Grant, a gift shop employee who discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector."
+    },
+    {
+        "id" : "1",
+        "img": "the_100.jpg",
+        "name": "The 100",
+        "genre": "Science Fiction Drama Action Suspense.",
+        "desc": "After arriving on a new planet, our heroes found a place where they hoped to try again. Clarke and Bellamy led a group down to this mysterious world to start anew."
+    },
+    {
+        "id" : "2",
+        "img": "money-heist.jpg",
+        "name": "Money Heist",
+        "genre": "Thriller.",
+        "desc": "Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan."
+    }
+]
